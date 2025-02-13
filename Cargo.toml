@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [lib]
-name = "idea-compiler-rust"
+name = "idea_compiler_rust"
 crate-type = ["cdylib"]
